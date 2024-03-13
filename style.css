@@ -1,0 +1,61 @@
+h1{
+    color: black;
+    border-bottom: 2px solid black;
+}
+.img2{
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+    margin-top: 2%;
+
+}
+.img1{
+    width:50%;
+    height: 60%;
+    border-radius: 50%;
+}
+.container-fluid{
+    background-color:aqua;
+}
+span{
+    font-size:200%;
+    font-weight:bold;
+}
+h2{
+    font-size: 400%;
+    margin-left: 8%;
+    margin-right: 5%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+h3{
+    font-size: 200%;
+    margin-left: 8%;
+
+}
+.img3{
+    width: 80%;
+    margin-left: 10%;
+    height: 0%;
+}
+.msme{
+font-size: 81%;
+background-color: black;
+color:yellow;
+margin-top: 1%;
+margin-bottom: 1%;
+}
+.venue{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-weight: bold;
+}
+
+.india{
+    background-color: yellow;
+    margin-right: 5%;
+    padding-left:2% ;
+}
+body{
+    background-color:greenyellow;
+}
